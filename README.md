@@ -1,1 +1,3 @@
-# for_each
+# For each
+
+- Diferenças entre os comandos
